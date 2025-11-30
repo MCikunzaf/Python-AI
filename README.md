@@ -30,9 +30,6 @@ Pyai/
 │   └── config.py        # 项目配置文件
 ├── models/              # 模型目录（预留）
 ├── requirements.txt     # Python依赖包列表
-├── test_all_search.py   # 全部搜索引擎模式测试
-├── test_fallback_search.py # 回退搜索功能测试
-├── test_full_flow.py    # 完整流程测试
 └── conversations/       # 对话历史保存目录（自动创建）
 ```
 
